@@ -35,7 +35,7 @@ Ini ialah aplikasi yang kita boleh mengawal quadcopter untuk terbang dengan modu
 
 Atas pengalaman / Nasihat / Perhatian saya mengunakan Apps ini.
 1 - Ia boleh Unlock dari 120 Meter ke pada 500 meter ketinggian. 
-    Di Nasihat sila ikut undang - undang laluan udara negara anda. tetapkan ketinggian 120 meter untuk mengelak kemalangan udara melibatkan nyawa beratus orang ole kerana drone.
+    Di Nasihat sila ikut undang - undang laluan udara negara anda. tetapkan ketinggian 120 meter untuk mengelak kemalangan udara melibatkan nyawa beratus orang oleh kerana drone.
 2 - Video rakaman melalui memory card stabil 1080p. Tetapi ia memotong 5minit rakaman Video , akan tetapi pemilihan memory tidaklah terlalu tinggi seperti 32gb atau 64gb kelas u3.
     Pernah mencuba 128GB tetapi gagal segala usaha.
 3 - FPV Video dari smartphone agak kurang memuaskan. yang pasti boleh digunakan.
